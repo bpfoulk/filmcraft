@@ -479,3 +479,7 @@ Forks and modified versions must remove them.
 ## Star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=storytold/filmcraft&type=Date&legend=top-left)](https://www.star-history.com/?repos=storytold%2Ffilmcraft&type=date&legend=top-left)
+
+## Windows development with Visual Studio 2026
+
+Open [FilmCraft.slnx](FilmCraft.slnx), choose **Debug | x64** and press **F5**. The project builds the Rust desktop app with Cargo and launches the native debugger. See [Visual Studio setup](docs/visual-studio.md) for prerequisites, output paths and options.
